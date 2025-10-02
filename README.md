@@ -15,7 +15,7 @@ U1	 AVRマイコン　ATmega168/328P  Arduinoのbootloaderを書き込みます�
 
 X1	 16MHz 発振子
 
-セラミックコンデンサ　22pF x2	  http://akizukidenshi.com/catalog/g/gP-11137/
+セラミックコンデンサ　22pF x2
 
 SW9-12	 ジョイスティック（レバー）
 
